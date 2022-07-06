@@ -1,4 +1,4 @@
-const {User, Thoughts} = require("../models");
+const {user, thought} = require("../models");
 
 const thoughtController ={
 
